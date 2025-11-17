@@ -1,6 +1,3 @@
-console.log("sdasdasd")
-
-
 let player = {name: "Player", chips: 200}
 let cards = []
 let sum = 0
